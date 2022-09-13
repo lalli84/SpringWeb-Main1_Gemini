@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 18
+Class-Path: spring-context-4.1.8.RELEASE.jar spring-aop-4.1.8.RELEASE.ja
+ r aopalliance-1.0.jar spring-beans-4.1.8.RELEASE.jar spring-core-4.1.8.
+ RELEASE.jar commons-logging-1.2.jar spring-expression-4.1.8.RELEASE.jar
+  spring-webmvc-4.1.8.RELEASE.jar spring-web-4.1.8.RELEASE.jar mysql-con
+ nector-java-5.1.36.jar jstl-1.2.jar
+Created-By: Maven Integration for Eclipse
+
